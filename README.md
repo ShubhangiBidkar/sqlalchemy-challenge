@@ -94,3 +94,21 @@ sqlalchemy v1.4.39
 datetime (native to Python)
 
 ## Results
+
+![image](https://github.com/ShubhangiBidkar/sqlalchemy-challenge/assets/38162670/8728b977-8c8a-402f-8101-4fb92de0c29d) 
+
+![image](https://github.com/ShubhangiBidkar/sqlalchemy-challenge/assets/38162670/bb1b1564-d431-430c-b567-9ab3c704015d)
+
+![image](https://github.com/ShubhangiBidkar/sqlalchemy-challenge/assets/38162670/339146f5-4a52-45e9-b1be-0f125b177e59)
+
+![image](https://github.com/ShubhangiBidkar/sqlalchemy-challenge/assets/38162670/9e4bca40-bd02-4233-9e95-1d475f5e27f3)
+
+![image](https://github.com/ShubhangiBidkar/sqlalchemy-challenge/assets/38162670/1260b2cb-d338-4714-88fe-7baffe6cef31)
+
+![image](https://github.com/ShubhangiBidkar/sqlalchemy-challenge/assets/38162670/99ee9c1a-b4c8-434e-ace7-ba80efcf6852)
+
+
+
+
+
+
